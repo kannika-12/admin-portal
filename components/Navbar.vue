@@ -17,12 +17,12 @@
     </ul>
     <div class="flex space-x-5">
       <button
-        class="border rounded-md border-yellow-500 py-2 px-5 text-yellow-500 shadow-md"
+        class="border rounded-md border-yellow-500 py-2 px-5 text-yellow-500 hover:bg-yellow-100"
       >
         Log in
       </button>
       <button
-        class="border rounded-md border-yellow-500 py-2 px-5 text-text bg-yellow-500 shadow-md"
+        class="border rounded-md py-2 px-5 border-yellow-500 text-black bg-yellow-500 hover:bg-yellow-600"
       >
         Sign up
       </button>
